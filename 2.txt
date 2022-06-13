@@ -1,0 +1,3 @@
+second file
+Line number 2
+bye
